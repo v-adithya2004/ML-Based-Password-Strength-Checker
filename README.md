@@ -16,17 +16,6 @@ The application:
 3. Provides password improvement suggestions based on ML and predefined rules.
 4. Modernized GUI with reset and analyze buttons.
 
-##Setup Instructions
-1. Clone the Repository:
-  git clone https://github.com/your-username/Password-Strength-Checker.git
-  cd Password-Strength-Checker
-
-2. Install Required Dependencies
-   pip install pandas scikit-learn
-
-3. Run the Application
-   python password_strength_gui.py
-
 ## Usage Instructions
 1. Launch the GUI by running password_strength_gui.py.
 2. Enter a password and click Check Strength.
