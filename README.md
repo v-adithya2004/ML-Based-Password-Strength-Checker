@@ -1,4 +1,4 @@
-# ML-Based-Password-Strength-Checker
+# Password-Strength-Checker
 
 This project is a Password Strength Checker with a Tkinter-based GUI. It evaluates password strength and suggests improvements using machine learning (ML) and pattern-based analysis.
 
